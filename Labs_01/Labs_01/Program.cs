@@ -9,6 +9,6 @@ namespace Labs_01
     public class Car
     {
         private model;
-
+            1
     }
 }
