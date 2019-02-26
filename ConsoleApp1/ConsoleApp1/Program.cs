@@ -12,7 +12,7 @@ namespace Lab1
         private string broad;
         private int numberOfDors;
         private static int _carCount = 0;
-        
+        private string a;
         static void Main(string[] args)
         {
         }
