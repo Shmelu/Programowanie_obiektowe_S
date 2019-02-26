@@ -76,6 +76,7 @@ namespace ConsoleApp1
             Console.WriteLine("Koszt przejazdu: {0:#.##}zł", trPrice);
             Car.ShowCarAmount();
             Console.ReadKey();
+
         }
     }
 }
