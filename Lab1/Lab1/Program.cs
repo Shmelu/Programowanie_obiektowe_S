@@ -22,6 +22,6 @@ namespace Lab1
 
 
 
-
+            xd
     }
 }
