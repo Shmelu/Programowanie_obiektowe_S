@@ -1,0 +1,7 @@
+C:\Users\Piotrek\source\repos\program_1\program_1.0\bin\Debug\program_1.0.exe.config
+C:\Users\Piotrek\source\repos\program_1\program_1.0\bin\Debug\program_1.0.exe
+C:\Users\Piotrek\source\repos\program_1\program_1.0\bin\Debug\program_1.0.pdb
+C:\Users\Piotrek\source\repos\program_1\program_1.0\obj\Debug\program_1.0.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\program_1\program_1.0\obj\Debug\program_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\program_1\program_1.0\obj\Debug\program_1.0.exe
+C:\Users\Piotrek\source\repos\program_1\program_1.0\obj\Debug\program_1.0.pdb
